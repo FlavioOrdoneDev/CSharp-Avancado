@@ -1,0 +1,12 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Lists-Example\bin\Debug\Lists-Example.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Lists-Example\bin\Debug\Lists-Example.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Lists-Example\bin\Debug\Lists-Example.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Lists-Example\obj\Debug\Lists-Example.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Lists-Example\obj\Debug\Lists-Example.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Lists-Example\obj\Debug\Lists-Example.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Lists-Example\bin\Debug\Lists-Example.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Lists-Example\bin\Debug\Lists-Example.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Lists-Example\bin\Debug\Lists-Example.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Lists-Example\obj\Debug\Lists-Example.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Lists-Example\obj\Debug\Lists-Example.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Lists-Example\obj\Debug\Lists-Example.pdb

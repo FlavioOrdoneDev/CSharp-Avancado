@@ -1,0 +1,12 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\bin\Debug\Linq-GroupBy-Distinct.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\bin\Debug\Linq-GroupBy-Distinct.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\bin\Debug\Linq-GroupBy-Distinct.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\obj\Debug\Linq-GroupBy-Distinct.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\obj\Debug\Linq-GroupBy-Distinct.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\obj\Debug\Linq-GroupBy-Distinct.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\bin\Debug\Linq-GroupBy-Distinct.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\bin\Debug\Linq-GroupBy-Distinct.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\bin\Debug\Linq-GroupBy-Distinct.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\obj\Debug\Linq-GroupBy-Distinct.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\obj\Debug\Linq-GroupBy-Distinct.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\obj\Debug\Linq-GroupBy-Distinct.pdb

@@ -1,0 +1,12 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Jewelry\bin\Debug\Jewelry.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Jewelry\bin\Debug\Jewelry.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Jewelry\bin\Debug\Jewelry.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Jewelry\obj\Debug\Jewelry.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Jewelry\obj\Debug\Jewelry.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Jewelry\obj\Debug\Jewelry.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Jewelry\bin\Debug\Jewelry.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Jewelry\bin\Debug\Jewelry.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Jewelry\bin\Debug\Jewelry.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Jewelry\obj\Debug\Jewelry.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Jewelry\obj\Debug\Jewelry.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Jewelry\obj\Debug\Jewelry.pdb

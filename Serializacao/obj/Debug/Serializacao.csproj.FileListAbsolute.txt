@@ -1,0 +1,7 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Serializacao\bin\Debug\Serializacao.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Serializacao\bin\Debug\Serializacao.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Serializacao\bin\Debug\Serializacao.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Serializacao\obj\Debug\Serializacao.csprojAssemblyReference.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Serializacao\obj\Debug\Serializacao.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Serializacao\obj\Debug\Serializacao.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Serializacao\obj\Debug\Serializacao.pdb

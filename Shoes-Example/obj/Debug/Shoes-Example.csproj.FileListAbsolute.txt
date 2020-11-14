@@ -1,0 +1,12 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Shoes-Example\bin\Debug\Shoes-Example.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Shoes-Example\bin\Debug\Shoes-Example.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Shoes-Example\bin\Debug\Shoes-Example.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Shoes-Example\obj\Debug\Shoes-Example.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Shoes-Example\obj\Debug\Shoes-Example.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Shoes-Example\obj\Debug\Shoes-Example.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Shoes-Example\bin\Debug\Shoes-Example.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Shoes-Example\bin\Debug\Shoes-Example.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Shoes-Example\bin\Debug\Shoes-Example.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Shoes-Example\obj\Debug\Shoes-Example.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Shoes-Example\obj\Debug\Shoes-Example.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Shoes-Example\obj\Debug\Shoes-Example.pdb

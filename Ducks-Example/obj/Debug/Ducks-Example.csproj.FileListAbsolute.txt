@@ -1,0 +1,12 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Ducks-Example\bin\Debug\Ducks-Example.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Ducks-Example\bin\Debug\Ducks-Example.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Ducks-Example\bin\Debug\Ducks-Example.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Ducks-Example\obj\Debug\Ducks-Example.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Ducks-Example\obj\Debug\Ducks-Example.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Ducks-Example\obj\Debug\Ducks-Example.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Ducks-Example\bin\Debug\Ducks-Example.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Ducks-Example\bin\Debug\Ducks-Example.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Ducks-Example\bin\Debug\Ducks-Example.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Ducks-Example\obj\Debug\Ducks-Example.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Ducks-Example\obj\Debug\Ducks-Example.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Ducks-Example\obj\Debug\Ducks-Example.pdb

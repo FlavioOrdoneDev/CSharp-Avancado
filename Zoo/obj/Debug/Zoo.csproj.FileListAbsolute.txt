@@ -1,0 +1,12 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Zoo\obj\Debug\Zoo.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Zoo\bin\Debug\Zoo.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Zoo\bin\Debug\Zoo.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Zoo\bin\Debug\Zoo.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Zoo\obj\Debug\Zoo.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Zoo\obj\Debug\Zoo.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Zoo\bin\Debug\Zoo.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Zoo\bin\Debug\Zoo.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Zoo\bin\Debug\Zoo.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Zoo\obj\Debug\Zoo.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Zoo\obj\Debug\Zoo.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Zoo\obj\Debug\Zoo.pdb

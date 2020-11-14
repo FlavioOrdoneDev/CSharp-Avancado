@@ -1,0 +1,12 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Katkleen-Console\bin\Debug\Katkleen-Console.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Katkleen-Console\bin\Debug\Katkleen-Console.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Katkleen-Console\bin\Debug\Katkleen-Console.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Katkleen-Console\obj\Debug\Katkleen-Console.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Katkleen-Console\obj\Debug\Katkleen-Console.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Katkleen-Console\obj\Debug\Katkleen-Console.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Katkleen-Console\bin\Debug\Katkleen-Console.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Katkleen-Console\bin\Debug\Katkleen-Console.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Katkleen-Console\bin\Debug\Katkleen-Console.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Katkleen-Console\obj\Debug\Katkleen-Console.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Katkleen-Console\obj\Debug\Katkleen-Console.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Katkleen-Console\obj\Debug\Katkleen-Console.pdb

@@ -1,0 +1,13 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates\bin\Debug\Delegates.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates\bin\Debug\Delegates.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates\bin\Debug\Delegates.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates\obj\Debug\Delegates.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates\obj\Debug\Delegates.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates\bin\Debug\Delegates.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates\bin\Debug\Delegates.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates\bin\Debug\Delegates.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates\obj\Debug\Delegates.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates\obj\Debug\Delegates.pdb

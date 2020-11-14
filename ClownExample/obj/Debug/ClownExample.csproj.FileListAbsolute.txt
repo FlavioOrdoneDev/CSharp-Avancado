@@ -1,0 +1,12 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\ClownExample\bin\Debug\ClownExample.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\ClownExample\bin\Debug\ClownExample.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\ClownExample\bin\Debug\ClownExample.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\ClownExample\obj\Debug\ClownExample.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\ClownExample\obj\Debug\ClownExample.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\ClownExample\obj\Debug\ClownExample.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\ClownExample\bin\Debug\ClownExample.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\ClownExample\bin\Debug\ClownExample.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\ClownExample\bin\Debug\ClownExample.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\ClownExample\obj\Debug\ClownExample.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\ClownExample\obj\Debug\ClownExample.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\ClownExample\obj\Debug\ClownExample.pdb

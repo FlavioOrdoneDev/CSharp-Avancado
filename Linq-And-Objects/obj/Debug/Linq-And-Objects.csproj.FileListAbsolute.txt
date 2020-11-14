@@ -1,0 +1,14 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\bin\Debug\Linq-And-Objects.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\bin\Debug\Linq-And-Objects.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\bin\Debug\Linq-And-Objects.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\obj\Debug\Linq-And-Objects.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\obj\Debug\Linq-And-Objects.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\obj\Debug\Linq-And-Objects.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\obj\Debug\Linq-And-Objects.csprojAssemblyReference.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\bin\Debug\Linq-And-Objects.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\bin\Debug\Linq-And-Objects.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\bin\Debug\Linq-And-Objects.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\obj\Debug\Linq-And-Objects.csprojAssemblyReference.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\obj\Debug\Linq-And-Objects.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\obj\Debug\Linq-And-Objects.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\obj\Debug\Linq-And-Objects.pdb

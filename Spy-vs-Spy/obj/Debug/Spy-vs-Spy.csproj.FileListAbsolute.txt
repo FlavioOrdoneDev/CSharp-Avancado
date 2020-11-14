@@ -1,0 +1,12 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Spy-vs-Spy\bin\Debug\Spy-vs-Spy.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Spy-vs-Spy\bin\Debug\Spy-vs-Spy.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Spy-vs-Spy\bin\Debug\Spy-vs-Spy.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Spy-vs-Spy\obj\Debug\Spy-vs-Spy.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Spy-vs-Spy\obj\Debug\Spy-vs-Spy.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Spy-vs-Spy\obj\Debug\Spy-vs-Spy.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Spy-vs-Spy\bin\Debug\Spy-vs-Spy.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Spy-vs-Spy\bin\Debug\Spy-vs-Spy.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Spy-vs-Spy\bin\Debug\Spy-vs-Spy.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Spy-vs-Spy\obj\Debug\Spy-vs-Spy.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Spy-vs-Spy\obj\Debug\Spy-vs-Spy.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Spy-vs-Spy\obj\Debug\Spy-vs-Spy.pdb

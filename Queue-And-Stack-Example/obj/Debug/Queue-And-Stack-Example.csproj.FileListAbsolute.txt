@@ -1,0 +1,12 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Queue-And-Stack-Example\bin\Debug\Queue-And-Stack-Example.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Queue-And-Stack-Example\bin\Debug\Queue-And-Stack-Example.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Queue-And-Stack-Example\bin\Debug\Queue-And-Stack-Example.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Queue-And-Stack-Example\obj\Debug\Queue-And-Stack-Example.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Queue-And-Stack-Example\obj\Debug\Queue-And-Stack-Example.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Queue-And-Stack-Example\obj\Debug\Queue-And-Stack-Example.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Queue-And-Stack-Example\bin\Debug\Queue-And-Stack-Example.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Queue-And-Stack-Example\bin\Debug\Queue-And-Stack-Example.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Queue-And-Stack-Example\bin\Debug\Queue-And-Stack-Example.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Queue-And-Stack-Example\obj\Debug\Queue-And-Stack-Example.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Queue-And-Stack-Example\obj\Debug\Queue-And-Stack-Example.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Queue-And-Stack-Example\obj\Debug\Queue-And-Stack-Example.pdb

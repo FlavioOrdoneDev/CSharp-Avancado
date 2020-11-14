@@ -1,0 +1,14 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\bin\Debug\Generics.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\bin\Debug\Generics.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\bin\Debug\Generics.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\obj\Debug\Generics.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\obj\Debug\Generics.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\bin\Debug\Generics.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\bin\Debug\Generics.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\bin\Debug\Generics.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\obj\Debug\Generics.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Generics\obj\Debug\Generics.pdb

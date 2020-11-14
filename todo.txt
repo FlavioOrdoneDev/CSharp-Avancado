@@ -1,0 +1,11 @@
+
+Interfaces e Classes Abstratas
+	Fazer uma revisão no capítulo de 
+	Continuar o House Simulator página 316
+
+Collections
+	Refazer o Exercício longo Go Fish! página 366
+
+Arquivos(Files)
+	Fazer o exercício da página 429
+

@@ -1,0 +1,13 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Serialize-Deck\bin\Debug\Files-Serialize-Deck.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Serialize-Deck\bin\Debug\Files-Serialize-Deck.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Serialize-Deck\bin\Debug\Files-Serialize-Deck.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Serialize-Deck\obj\Debug\Files-Serialize-Deck.csprojAssemblyReference.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Serialize-Deck\obj\Debug\Files-Serialize-Deck.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Serialize-Deck\obj\Debug\Files-Serialize-Deck.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Serialize-Deck\obj\Debug\Files-Serialize-Deck.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Serialize-Deck\bin\Debug\Files-Serialize-Deck.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Serialize-Deck\bin\Debug\Files-Serialize-Deck.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Serialize-Deck\bin\Debug\Files-Serialize-Deck.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Serialize-Deck\obj\Debug\Files-Serialize-Deck.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Serialize-Deck\obj\Debug\Files-Serialize-Deck.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Serialize-Deck\obj\Debug\Files-Serialize-Deck.pdb

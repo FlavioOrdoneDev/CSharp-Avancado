@@ -1,0 +1,14 @@
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\bin\Debug\Var-Dinamics.exe.config
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\bin\Debug\Var-Dinamics.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\bin\Debug\Var-Dinamics.pdb
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\obj\Debug\Var-Dynamics.csprojAssemblyReference.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\obj\Debug\Var-Dynamics.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\obj\Debug\Var-Dinamics.exe
+C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\obj\Debug\Var-Dinamics.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\bin\Debug\Var-Dinamics.exe.config
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\bin\Debug\Var-Dinamics.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\bin\Debug\Var-Dinamics.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\obj\Debug\Var-Dynamics.csprojAssemblyReference.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\obj\Debug\Var-Dynamics.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\obj\Debug\Var-Dinamics.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Var-Dinamics\obj\Debug\Var-Dinamics.pdb
