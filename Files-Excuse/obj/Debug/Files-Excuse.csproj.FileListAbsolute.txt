@@ -10,7 +10,6 @@ C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Excuse\obj\Debug\File
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Excuse\bin\Debug\Files-Excuse.exe.config
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Excuse\bin\Debug\Files-Excuse.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Excuse\bin\Debug\Files-Excuse.pdb
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Excuse\obj\Debug\Files-Excuse.csprojAssemblyReference.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Excuse\obj\Debug\Files_Excuse.Form1.resources
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Excuse\obj\Debug\Files_Excuse.Properties.Resources.resources
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Excuse\obj\Debug\Files-Excuse.csproj.GenerateResource.cache

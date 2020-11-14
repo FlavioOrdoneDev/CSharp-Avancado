@@ -17,3 +17,4 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\House-Simulator\obj\Debug\House-Simu
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\House-Simulator\obj\Debug\House-Simulator.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\House-Simulator\obj\Debug\House-Simulator.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\House-Simulator\obj\Debug\House-Simulator.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\House-Simulator\obj\Debug\House-Simulator.csprojAssemblyReference.cache
