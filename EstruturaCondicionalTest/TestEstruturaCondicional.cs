@@ -103,6 +103,18 @@ namespace EstruturaCondicionalTest
             Assert.AreEqual("Origem", resultado5);
         }
 
-        
+        [TestMethod]
+        public void TestCalculaImposto() // Exercício 08
+        {
+            var resultado1 = Utils.CalculaImposto(3002.00);
+            var resultado2 = Utils.CalculaImposto(1701.12);
+            var resultado3 = Utils.CalculaImposto(4520.00);
+
+            Assert.AreEqual(80.36, resultado1);
+            Assert.AreEqual(0, resultado2);
+            Assert.AreEqual(355.60, resultado3);
+        }
+
+
     }
 }

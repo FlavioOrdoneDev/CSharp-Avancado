@@ -84,7 +84,6 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaCondicionalTest\bin\Debug\n
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaCondicionalTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaCondicionalTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaCondicionalTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaCondicionalTest\obj\Debug\netcoreapp3.1\EstruturaCondicionalTest.csprojAssemblyReference.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaCondicionalTest\obj\Debug\netcoreapp3.1\EstruturaCondicionalTest.AssemblyInfoInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaCondicionalTest\obj\Debug\netcoreapp3.1\EstruturaCondicionalTest.AssemblyInfo.cs
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaCondicionalTest\obj\Debug\netcoreapp3.1\EstruturaCondicionalTest.csproj.CoreCompileInputs.cache
