@@ -6,11 +6,20 @@ namespace AppTriangulo
 {
     public class Triangulo
     {
-        public double CalcularArea(double a, double b, double c)
+        public Triangulo(double a, double b, double c)
         {
-            double p = (a + b + c) / 2.0;
+            A = a;
+            B = b;
+            C = c;
+        }
 
-            return Math.Sqrt(p * (p - a) * (p - b) * (p - c));
+        public double A { get; set; }
+        public double B { get; set; }
+        public double C { get; set; }
+        public double CalcularArea()
+        {
+            double p = (A + B + C) / 2.0;
+            return Math.Sqrt(p * (p - A) * (p - B) * (p - C));
         }
     }
 }
