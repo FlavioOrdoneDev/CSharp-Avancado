@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Globalization;
 
 namespace EstruturaSequencialTest
 {
@@ -24,9 +25,9 @@ namespace EstruturaSequencialTest
             var resultado2 = Utils.CalcularAreaCirculo(100.64);
             var resultado3 = Utils.CalcularAreaCirculo(150.00);
 
-            Assert.AreEqual("12.5664", resultado1);
-            Assert.AreEqual("31819.3103", resultado2);
-            Assert.AreEqual("70685.7750", resultado3);
+            Assert.AreEqual("12.5664", resultado1.ToString("F4", CultureInfo.InvariantCulture));
+            Assert.AreEqual("31819.3103", resultado2.ToString("F4", CultureInfo.InvariantCulture));
+            Assert.AreEqual("70685.7750", resultado3.ToString("F4", CultureInfo.InvariantCulture));
         }
 
         [TestMethod]
@@ -55,7 +56,7 @@ namespace EstruturaSequencialTest
         }
 
         [TestMethod]
-        public void TestTrazerInformacoesDeUmFuncionarios() // Exercício 5
+        public void TestFazerSomaDeDoisItens() // Exercício 5
         {
             int qtde1 = 1;
             double preco1 = 5.30;
@@ -63,11 +64,28 @@ namespace EstruturaSequencialTest
             int qtde2 = 2;
             double preco2 = 5.10;            
 
-            double total;
+            var resultado = Utils.SomaTotalDeItens(qtde1, qtde2, preco1, preco2);
 
-            total = preco1 * qtde1 + preco2 * qtde2;
+            Assert.AreEqual(15.50, resultado);
+        }
 
-            Assert.AreEqual(15.50, total);
+        [TestMethod]
+        public void TestLerTresValoresECalcularArea() // Exercício 5
+        {
+
+
+            var triangulo = Utils.CalcularAreaTriangulo(3.0, 5.2);
+            var circulo = Utils.CalcularAreaCirculo(5.2);
+            var trapezio = Utils.CalcularAreaTrapezio(3.0, 4.0, 5.2);
+            var quadrado = Utils.CalcularAreaQuadrado(4.0);
+            var retangulo = Utils.CalcularAreaRetangulo(3.0, 4.0);       
+
+
+            Assert.AreEqual("7.800", triangulo.ToString("F3", CultureInfo.InvariantCulture));
+            Assert.AreEqual("84.949", circulo.ToString("F3", CultureInfo.InvariantCulture));
+            Assert.AreEqual("18.200", trapezio.ToString("F3", CultureInfo.InvariantCulture));
+            Assert.AreEqual("16.000", quadrado.ToString("F3", CultureInfo.InvariantCulture));
+            Assert.AreEqual("12.000", retangulo.ToString("F3", CultureInfo.InvariantCulture));
         }
     }
 }
