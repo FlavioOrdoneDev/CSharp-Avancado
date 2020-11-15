@@ -70,22 +70,35 @@ namespace EstruturaSequencialTest
         }
 
         [TestMethod]
-        public void TestLerTresValoresECalcularArea() // Exercício 5
+        public void TestLerTresValoresECalcularArea() // Exercício 6
         {
-
-
             var triangulo = Utils.CalcularAreaTriangulo(3.0, 5.2);
             var circulo = Utils.CalcularAreaCirculo(5.2);
             var trapezio = Utils.CalcularAreaTrapezio(3.0, 4.0, 5.2);
             var quadrado = Utils.CalcularAreaQuadrado(4.0);
-            var retangulo = Utils.CalcularAreaRetangulo(3.0, 4.0);       
-
+            var retangulo = Utils.CalcularAreaRetangulo(3.0, 4.0);
 
             Assert.AreEqual("7.800", triangulo.ToString("F3", CultureInfo.InvariantCulture));
             Assert.AreEqual("84.949", circulo.ToString("F3", CultureInfo.InvariantCulture));
             Assert.AreEqual("18.200", trapezio.ToString("F3", CultureInfo.InvariantCulture));
             Assert.AreEqual("16.000", quadrado.ToString("F3", CultureInfo.InvariantCulture));
             Assert.AreEqual("12.000", retangulo.ToString("F3", CultureInfo.InvariantCulture));
+        }
+
+        [TestMethod]
+        public void TestLerTresValoresECalcularAreaTesteDois() // Exercício 6
+        {
+            var triangulo = Utils.CalcularAreaTriangulo(12.7, 15.2);
+            var circulo = Utils.CalcularAreaCirculo(15.2);
+            var trapezio = Utils.CalcularAreaTrapezio(12.7, 10.4, 15.2);
+            var quadrado = Utils.CalcularAreaQuadrado(10.4);
+            var retangulo = Utils.CalcularAreaRetangulo(12.7, 10.4);
+
+            Assert.AreEqual("96.520", triangulo.ToString("F3", CultureInfo.InvariantCulture));
+            Assert.AreEqual("725.833", circulo.ToString("F3", CultureInfo.InvariantCulture));
+            Assert.AreEqual("175.560", trapezio.ToString("F3", CultureInfo.InvariantCulture));
+            Assert.AreEqual("108.160", quadrado.ToString("F3", CultureInfo.InvariantCulture));
+            Assert.AreEqual("132.080", retangulo.ToString("F3", CultureInfo.InvariantCulture));
         }
     }
 }
