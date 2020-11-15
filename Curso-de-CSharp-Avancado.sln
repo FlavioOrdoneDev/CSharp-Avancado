@@ -118,7 +118,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Logica-Programacao", "1-L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaCondicionalTest", "EstruturaCondicionalTest\EstruturaCondicionalTest.csproj", "{63140D6C-7B83-4B61-8B86-9BAB37374600}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaSequencialTest", "EstruturaSequencialTest\EstruturaSequencialTest.csproj", "{B3198E34-418B-4151-88A1-D0E8B5F544CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaSequencialTest", "EstruturaSequencialTest\EstruturaSequencialTest.csproj", "{B3198E34-418B-4151-88A1-D0E8B5F544CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Classes-Atributos-Metodos", "2-Classes-Atributos-Metodos", "{679B3284-CB31-4EBF-BFF5-0E0D6805DA4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTriangulo", "AppTriangulo\AppTriangulo.csproj", "{474539E0-6F84-4015-9087-F7A3FFAD2C3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -282,6 +286,10 @@ Global
 		{B3198E34-418B-4151-88A1-D0E8B5F544CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3198E34-418B-4151-88A1-D0E8B5F544CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3198E34-418B-4151-88A1-D0E8B5F544CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{474539E0-6F84-4015-9087-F7A3FFAD2C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474539E0-6F84-4015-9087-F7A3FFAD2C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474539E0-6F84-4015-9087-F7A3FFAD2C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474539E0-6F84-4015-9087-F7A3FFAD2C3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -340,6 +348,8 @@ Global
 		{FC851104-6476-40D7-B658-1FFB1FD5DF10} = {C69605C0-6009-4CF2-AB61-6785AFAFC4DC}
 		{63140D6C-7B83-4B61-8B86-9BAB37374600} = {FC851104-6476-40D7-B658-1FFB1FD5DF10}
 		{B3198E34-418B-4151-88A1-D0E8B5F544CE} = {FC851104-6476-40D7-B658-1FFB1FD5DF10}
+		{679B3284-CB31-4EBF-BFF5-0E0D6805DA4A} = {C69605C0-6009-4CF2-AB61-6785AFAFC4DC}
+		{474539E0-6F84-4015-9087-F7A3FFAD2C3E} = {679B3284-CB31-4EBF-BFF5-0E0D6805DA4A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {25ADB0E8-BE92-4ACC-BE75-04FAFD2D0615}

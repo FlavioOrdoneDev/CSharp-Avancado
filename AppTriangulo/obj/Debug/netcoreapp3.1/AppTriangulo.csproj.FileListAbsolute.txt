@@ -1,0 +1,12 @@
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\bin\Debug\netcoreapp3.1\AppTriangulo.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\bin\Debug\netcoreapp3.1\AppTriangulo.deps.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\bin\Debug\netcoreapp3.1\AppTriangulo.runtimeconfig.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\bin\Debug\netcoreapp3.1\AppTriangulo.runtimeconfig.dev.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\bin\Debug\netcoreapp3.1\AppTriangulo.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\bin\Debug\netcoreapp3.1\AppTriangulo.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\obj\Debug\netcoreapp3.1\AppTriangulo.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\obj\Debug\netcoreapp3.1\AppTriangulo.AssemblyInfo.cs
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\obj\Debug\netcoreapp3.1\AppTriangulo.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\obj\Debug\netcoreapp3.1\AppTriangulo.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\obj\Debug\netcoreapp3.1\AppTriangulo.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\obj\Debug\netcoreapp3.1\AppTriangulo.genruntimeconfig.cache
