@@ -126,6 +126,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTriangulo", "AppTriangul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEstoque", "AppEstoque\AppEstoque.csproj", "{5682F7DC-9D7C-4076-9BE4-A9C86397420E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMembrosEstaticos", "AppMembrosEstaticos\AppMembrosEstaticos.csproj", "{4C6A169E-90DF-4B43-9405-670F41895B69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -296,6 +298,10 @@ Global
 		{5682F7DC-9D7C-4076-9BE4-A9C86397420E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5682F7DC-9D7C-4076-9BE4-A9C86397420E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5682F7DC-9D7C-4076-9BE4-A9C86397420E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C6A169E-90DF-4B43-9405-670F41895B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6A169E-90DF-4B43-9405-670F41895B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6A169E-90DF-4B43-9405-670F41895B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6A169E-90DF-4B43-9405-670F41895B69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -357,6 +363,7 @@ Global
 		{679B3284-CB31-4EBF-BFF5-0E0D6805DA4A} = {C69605C0-6009-4CF2-AB61-6785AFAFC4DC}
 		{474539E0-6F84-4015-9087-F7A3FFAD2C3E} = {679B3284-CB31-4EBF-BFF5-0E0D6805DA4A}
 		{5682F7DC-9D7C-4076-9BE4-A9C86397420E} = {679B3284-CB31-4EBF-BFF5-0E0D6805DA4A}
+		{4C6A169E-90DF-4B43-9405-670F41895B69} = {679B3284-CB31-4EBF-BFF5-0E0D6805DA4A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {25ADB0E8-BE92-4ACC-BE75-04FAFD2D0615}

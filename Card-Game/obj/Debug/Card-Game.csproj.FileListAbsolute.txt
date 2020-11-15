@@ -11,7 +11,6 @@ C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Card-Game\obj\Debug\Card-Ga
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Card-Game\bin\Debug\Card-Game.exe.config
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Card-Game\bin\Debug\Card-Game.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Card-Game\bin\Debug\Card-Game.pdb
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Card-Game\obj\Debug\Card-Game.csprojAssemblyReference.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Card-Game\obj\Debug\Card_Game.Form1.resources
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Card-Game\obj\Debug\Card_Game.Properties.Resources.resources
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Card-Game\obj\Debug\Card-Game.csproj.GenerateResource.cache

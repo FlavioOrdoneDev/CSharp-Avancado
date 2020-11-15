@@ -1,0 +1,13 @@
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\bin\Debug\netcoreapp3.1\AppMembrosEstaticos.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\bin\Debug\netcoreapp3.1\AppMembrosEstaticos.deps.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\bin\Debug\netcoreapp3.1\AppMembrosEstaticos.runtimeconfig.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\bin\Debug\netcoreapp3.1\AppMembrosEstaticos.runtimeconfig.dev.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\bin\Debug\netcoreapp3.1\AppMembrosEstaticos.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\bin\Debug\netcoreapp3.1\AppMembrosEstaticos.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\obj\Debug\netcoreapp3.1\AppMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\obj\Debug\netcoreapp3.1\AppMembrosEstaticos.AssemblyInfo.cs
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\obj\Debug\netcoreapp3.1\AppMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\obj\Debug\netcoreapp3.1\AppMembrosEstaticos.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\obj\Debug\netcoreapp3.1\AppMembrosEstaticos.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\obj\Debug\netcoreapp3.1\AppMembrosEstaticos.genruntimeconfig.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\obj\Debug\netcoreapp3.1\AppMembrosEstaticos.csprojAssemblyReference.cache

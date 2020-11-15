@@ -17,4 +17,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Dictionary-Example\obj\Debug\Diction
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Dictionary-Example\obj\Debug\Dictionary-Example.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Dictionary-Example\obj\Debug\Dictionary-Example.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Dictionary-Example\obj\Debug\Dictionary-Example.pdb
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Dictionary-Example\obj\Debug\Dictionary-Example.csprojAssemblyReference.cache
