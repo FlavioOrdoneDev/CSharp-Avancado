@@ -6,14 +6,14 @@ namespace AppEstoque
     {
         static void Main(string[] args)
         {
-            Produto produto1 = new Produto("Sapato", 100.00, 3);
-            produto1.MostrarProduto();
+            Produto produto1 = new Produto("TV", 900.00, 10);
+            Console.WriteLine(produto1);
 
-            produto1.AdicionarProdutos(3);
-            produto1.RemoverProdutos(7);
+            produto1.AdicionarProdutos(5);
+            Console.WriteLine(produto1);
 
-            produto1.MostrarProduto();
-
+            produto1.RemoverProdutos(3);
+            Console.WriteLine(produto1);
 
             Console.ReadKey();
         }

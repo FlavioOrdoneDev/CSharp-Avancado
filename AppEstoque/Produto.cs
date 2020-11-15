@@ -24,7 +24,10 @@ namespace AppEstoque
 
         public void AdicionarProdutos(int quantidade)
         {
-            Quantidade += quantidade;
+            if (quantidade <= 0)
+                Console.WriteLine("Insira uma quantidade válida");
+            else
+                Quantidade += quantidade;
         }
 
         public void RemoverProdutos(int quantidade)
@@ -35,13 +38,9 @@ namespace AppEstoque
                 Quantidade -= quantidade;
         }
 
-        public void MostrarProduto()
+        public override string ToString()
         {
-            Console.WriteLine("Nome: " + Nome);
-            Console.WriteLine("Preco: " + Preco);
-            Console.WriteLine("Quantidade: " + Quantidade);
-            Console.WriteLine("Valor total em estoque: " + ValorTotalEmEstoque());
-
+            return "Dados do Produto: " + Nome + ", R$ " + Preco.ToString("F2") + ", " + Quantidade + " unidades, Total: R$ " + ValorTotalEmEstoque().ToString("F2");
         }
     }
 }
