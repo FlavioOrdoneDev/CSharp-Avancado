@@ -16,6 +16,7 @@ namespace AppTriangulo
         public double A { get; set; }
         public double B { get; set; }
         public double C { get; set; }
+
         public double CalcularArea()
         {
             double p = (A + B + C) / 2.0;
