@@ -1,0 +1,12 @@
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppBanco\bin\Debug\netcoreapp3.1\AppBanco.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppBanco\bin\Debug\netcoreapp3.1\AppBanco.deps.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppBanco\bin\Debug\netcoreapp3.1\AppBanco.runtimeconfig.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppBanco\bin\Debug\netcoreapp3.1\AppBanco.runtimeconfig.dev.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppBanco\bin\Debug\netcoreapp3.1\AppBanco.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppBanco\bin\Debug\netcoreapp3.1\AppBanco.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppBanco\obj\Debug\netcoreapp3.1\AppBanco.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppBanco\obj\Debug\netcoreapp3.1\AppBanco.AssemblyInfo.cs
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppBanco\obj\Debug\netcoreapp3.1\AppBanco.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppBanco\obj\Debug\netcoreapp3.1\AppBanco.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppBanco\obj\Debug\netcoreapp3.1\AppBanco.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppBanco\obj\Debug\netcoreapp3.1\AppBanco.genruntimeconfig.cache

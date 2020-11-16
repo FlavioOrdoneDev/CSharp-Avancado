@@ -132,6 +132,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Encapsulamento-Construtor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppProduto", "AppProduto\AppProduto.csproj", "{2E4B224E-2298-4317-AB1B-856FFD8E0FBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppBanco", "AppBanco\AppBanco.csproj", "{08A9B1C5-A040-4D80-B197-87C840FA59F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -310,6 +312,10 @@ Global
 		{2E4B224E-2298-4317-AB1B-856FFD8E0FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E4B224E-2298-4317-AB1B-856FFD8E0FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E4B224E-2298-4317-AB1B-856FFD8E0FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A9B1C5-A040-4D80-B197-87C840FA59F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A9B1C5-A040-4D80-B197-87C840FA59F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A9B1C5-A040-4D80-B197-87C840FA59F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A9B1C5-A040-4D80-B197-87C840FA59F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -374,6 +380,7 @@ Global
 		{4C6A169E-90DF-4B43-9405-670F41895B69} = {679B3284-CB31-4EBF-BFF5-0E0D6805DA4A}
 		{5A30C10C-4854-45F6-9490-6126D55A7C38} = {C69605C0-6009-4CF2-AB61-6785AFAFC4DC}
 		{2E4B224E-2298-4317-AB1B-856FFD8E0FBC} = {5A30C10C-4854-45F6-9490-6126D55A7C38}
+		{08A9B1C5-A040-4D80-B197-87C840FA59F6} = {5A30C10C-4854-45F6-9490-6126D55A7C38}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {25ADB0E8-BE92-4ACC-BE75-04FAFD2D0615}
