@@ -11,8 +11,8 @@ namespace AppProduto
         public Produto(string nome, double preco)
         {
             Nome = nome;
-            Preco = preco;
-            Quantidade = 5;
+            _preco = preco;
+            _quantidade = 0;
         }
 
         public Produto(string nome, double preco, int quantidade)
@@ -21,13 +21,37 @@ namespace AppProduto
             Quantidade = quantidade;
         }
 
-        public string Nome { get; set; }
-        public double Preco { get; set; }
-        public int Quantidade { get; set; }
+        private string _nome;
+        public string Nome
+        {
+            get { return _nome; }
+            set
+            {
+                if (value != null && value.Length > 1)
+                    _nome = value;
+            }
+        }
+
+        private double _preco;
+        public double Preco
+        {
+            get { return _preco; }
+        }
+
+        private int _quantidade;
+        public int Quantidade
+        {
+            get { return _quantidade; }
+            set 
+            {
+                if (value >= 0)
+                   _quantidade = value;
+            }
+        }
 
         public double ValorTotalEmEstoque()
         {
-            return Preco * Quantidade;
+            return _preco * _quantidade;
         }
 
         public void AdicionarProdutos(int quantidade)
@@ -35,15 +59,15 @@ namespace AppProduto
             if (quantidade <= 0)
                 Console.WriteLine("Insira uma quantidade válida");
             else
-                Quantidade += quantidade;
+                _quantidade += quantidade;
         }
 
         public void RemoverProdutos(int quantidade)
         {
-            if (Quantidade < quantidade)
+            if (_quantidade < quantidade)
                 Console.WriteLine("Não será possivel remover essa quantidade");
             else
-                Quantidade -= quantidade;
+                _quantidade -= quantidade;
         }
 
         public override string ToString()
