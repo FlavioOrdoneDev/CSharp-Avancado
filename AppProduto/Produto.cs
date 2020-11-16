@@ -12,7 +12,7 @@ namespace AppProduto
         {
             Nome = nome;
             _preco = preco;
-            _quantidade = 0;
+            Quantidade = 0;
         }
 
         public Produto(string nome, double preco, int quantidade)
@@ -36,6 +36,7 @@ namespace AppProduto
         public double Preco
         {
             get { return _preco; }
+            private set { _preco = value; }
         }
 
         private int _quantidade;

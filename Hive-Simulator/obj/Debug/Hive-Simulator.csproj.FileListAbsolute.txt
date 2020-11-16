@@ -17,4 +17,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Hive-Simulator\obj\Debug\Hive-Simula
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Hive-Simulator\obj\Debug\Hive-Simulator.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Hive-Simulator\obj\Debug\Hive-Simulator.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Hive-Simulator\obj\Debug\Hive-Simulator.pdb
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Hive-Simulator\obj\Debug\Hive-Simulator.csprojAssemblyReference.cache

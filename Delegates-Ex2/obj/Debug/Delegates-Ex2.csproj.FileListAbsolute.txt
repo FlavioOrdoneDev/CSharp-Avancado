@@ -10,3 +10,4 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates-Ex2\bin\Debug\Delegates-Ex
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates-Ex2\obj\Debug\Delegates-Ex2.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates-Ex2\obj\Debug\Delegates-Ex2.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates-Ex2\obj\Debug\Delegates-Ex2.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Delegates-Ex2\obj\Debug\Delegates-Ex2.csprojAssemblyReference.cache
