@@ -16,9 +16,8 @@ namespace AppProduto
         }
 
         public Produto(string nome, double preco, int quantidade)
-        {
-            Nome = nome;
-            Preco = preco;
+            : this(nome, preco)
+        {            
             Quantidade = quantidade;
         }
 
