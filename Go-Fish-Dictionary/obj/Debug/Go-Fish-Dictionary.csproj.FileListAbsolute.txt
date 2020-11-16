@@ -16,4 +16,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Go-Fish-Dictionary\obj\Debug\Go-Fish
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Go-Fish-Dictionary\obj\Debug\Go-Fish-Dictionary.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Go-Fish-Dictionary\obj\Debug\Go-Fish-Dictionary.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Go-Fish-Dictionary\obj\Debug\Go-Fish-Dictionary.pdb
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Go-Fish-Dictionary\obj\Debug\Go-Fish-Dictionary.csprojAssemblyReference.cache

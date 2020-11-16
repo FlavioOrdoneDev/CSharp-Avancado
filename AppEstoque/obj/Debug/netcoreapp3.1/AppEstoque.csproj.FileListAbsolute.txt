@@ -4,7 +4,6 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEstoque\bin\Debug\netcoreapp3.1\A
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEstoque\bin\Debug\netcoreapp3.1\AppEstoque.runtimeconfig.dev.json
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEstoque\bin\Debug\netcoreapp3.1\AppEstoque.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEstoque\bin\Debug\netcoreapp3.1\AppEstoque.pdb
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEstoque\obj\Debug\netcoreapp3.1\AppEstoque.csprojAssemblyReference.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEstoque\obj\Debug\netcoreapp3.1\AppEstoque.AssemblyInfoInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEstoque\obj\Debug\netcoreapp3.1\AppEstoque.AssemblyInfo.cs
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEstoque\obj\Debug\netcoreapp3.1\AppEstoque.csproj.CoreCompileInputs.cache

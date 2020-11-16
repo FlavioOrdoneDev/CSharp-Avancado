@@ -16,3 +16,4 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Kathleen-Party-Heranca\obj\Debug\Kat
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Kathleen-Party-Heranca\obj\Debug\Kathleen-Party-Heranca.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Kathleen-Party-Heranca\obj\Debug\Kathleen-Party-Heranca.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Kathleen-Party-Heranca\obj\Debug\Kathleen-Party-Heranca.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Kathleen-Party-Heranca\obj\Debug\Kathleen-Party-Heranca.csprojAssemblyReference.cache
