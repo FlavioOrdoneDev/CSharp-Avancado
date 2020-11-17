@@ -10,4 +10,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEstoque\obj\Debug\netcoreapp3.1\A
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEstoque\obj\Debug\netcoreapp3.1\AppEstoque.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEstoque\obj\Debug\netcoreapp3.1\AppEstoque.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEstoque\obj\Debug\netcoreapp3.1\AppEstoque.genruntimeconfig.cache
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEstoque\obj\Debug\netcoreapp3.1\AppEstoque.csprojAssemblyReference.cache

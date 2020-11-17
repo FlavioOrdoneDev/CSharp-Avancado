@@ -10,4 +10,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\obj\Debug\netcor
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\obj\Debug\netcoreapp3.1\AppMembrosEstaticos.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\obj\Debug\netcoreapp3.1\AppMembrosEstaticos.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\obj\Debug\netcoreapp3.1\AppMembrosEstaticos.genruntimeconfig.cache
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMembrosEstaticos\obj\Debug\netcoreapp3.1\AppMembrosEstaticos.csprojAssemblyReference.cache

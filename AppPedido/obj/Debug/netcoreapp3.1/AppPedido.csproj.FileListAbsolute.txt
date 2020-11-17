@@ -1,0 +1,12 @@
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\bin\Debug\netcoreapp3.1\AppPedido.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\bin\Debug\netcoreapp3.1\AppPedido.deps.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\bin\Debug\netcoreapp3.1\AppPedido.runtimeconfig.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\bin\Debug\netcoreapp3.1\AppPedido.runtimeconfig.dev.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\bin\Debug\netcoreapp3.1\AppPedido.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\bin\Debug\netcoreapp3.1\AppPedido.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\obj\Debug\netcoreapp3.1\AppPedido.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\obj\Debug\netcoreapp3.1\AppPedido.AssemblyInfo.cs
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\obj\Debug\netcoreapp3.1\AppPedido.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\obj\Debug\netcoreapp3.1\AppPedido.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\obj\Debug\netcoreapp3.1\AppPedido.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\obj\Debug\netcoreapp3.1\AppPedido.genruntimeconfig.cache

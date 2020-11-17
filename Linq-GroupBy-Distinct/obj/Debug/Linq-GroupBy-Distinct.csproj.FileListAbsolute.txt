@@ -10,4 +10,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\bin\Debug\Linq
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\obj\Debug\Linq-GroupBy-Distinct.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\obj\Debug\Linq-GroupBy-Distinct.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\obj\Debug\Linq-GroupBy-Distinct.pdb
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-GroupBy-Distinct\obj\Debug\Linq-GroupBy-Distinct.csprojAssemblyReference.cache

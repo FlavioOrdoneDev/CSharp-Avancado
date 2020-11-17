@@ -8,7 +8,6 @@ C:\Projetos\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq\obj\Debug\Linq.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq\bin\Debug\Linq.exe.config
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq\bin\Debug\Linq.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq\bin\Debug\Linq.pdb
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq\obj\Debug\Linq.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq\obj\Debug\Linq.pdb

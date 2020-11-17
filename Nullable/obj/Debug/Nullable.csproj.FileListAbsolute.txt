@@ -11,4 +11,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Nullable\bin\Debug\Nullable.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Nullable\obj\Debug\Nullable.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Nullable\obj\Debug\Nullable.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Nullable\obj\Debug\Nullable.pdb
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Nullable\obj\Debug\Nullable.csprojAssemblyReference.cache
