@@ -1,0 +1,12 @@
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAccount\bin\Debug\netcoreapp3.1\AppAccount.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAccount\bin\Debug\netcoreapp3.1\AppAccount.deps.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAccount\bin\Debug\netcoreapp3.1\AppAccount.runtimeconfig.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAccount\bin\Debug\netcoreapp3.1\AppAccount.runtimeconfig.dev.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAccount\bin\Debug\netcoreapp3.1\AppAccount.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAccount\bin\Debug\netcoreapp3.1\AppAccount.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAccount\obj\Debug\netcoreapp3.1\AppAccount.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAccount\obj\Debug\netcoreapp3.1\AppAccount.AssemblyInfo.cs
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAccount\obj\Debug\netcoreapp3.1\AppAccount.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAccount\obj\Debug\netcoreapp3.1\AppAccount.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAccount\obj\Debug\netcoreapp3.1\AppAccount.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAccount\obj\Debug\netcoreapp3.1\AppAccount.genruntimeconfig.cache
