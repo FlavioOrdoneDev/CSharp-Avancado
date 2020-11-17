@@ -17,4 +17,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Card-Game\obj\Debug\Card-Game.csproj
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Card-Game\obj\Debug\Card-Game.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Card-Game\obj\Debug\Card-Game.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Card-Game\obj\Debug\Card-Game.pdb
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Card-Game\obj\Debug\Card-Game.csprojAssemblyReference.cache

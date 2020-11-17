@@ -1,0 +1,12 @@
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\bin\Debug\netcoreapp3.1\AppList-Exercicio.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\bin\Debug\netcoreapp3.1\AppList-Exercicio.deps.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\bin\Debug\netcoreapp3.1\AppList-Exercicio.runtimeconfig.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\bin\Debug\netcoreapp3.1\AppList-Exercicio.runtimeconfig.dev.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\bin\Debug\netcoreapp3.1\AppList-Exercicio.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\bin\Debug\netcoreapp3.1\AppList-Exercicio.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\obj\Debug\netcoreapp3.1\AppList-Exercicio.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\obj\Debug\netcoreapp3.1\AppList-Exercicio.AssemblyInfo.cs
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\obj\Debug\netcoreapp3.1\AppList-Exercicio.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\obj\Debug\netcoreapp3.1\AppList-Exercicio.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\obj\Debug\netcoreapp3.1\AppList-Exercicio.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\obj\Debug\netcoreapp3.1\AppList-Exercicio.genruntimeconfig.cache

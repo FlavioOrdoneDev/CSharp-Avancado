@@ -1,0 +1,12 @@
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\bin\Debug\netcoreapp3.1\AppNullable.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\bin\Debug\netcoreapp3.1\AppNullable.deps.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\bin\Debug\netcoreapp3.1\AppNullable.runtimeconfig.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\bin\Debug\netcoreapp3.1\AppNullable.runtimeconfig.dev.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\bin\Debug\netcoreapp3.1\AppNullable.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\bin\Debug\netcoreapp3.1\AppNullable.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\obj\Debug\netcoreapp3.1\AppNullable.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\obj\Debug\netcoreapp3.1\AppNullable.AssemblyInfo.cs
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\obj\Debug\netcoreapp3.1\AppNullable.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\obj\Debug\netcoreapp3.1\AppNullable.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\obj\Debug\netcoreapp3.1\AppNullable.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\obj\Debug\netcoreapp3.1\AppNullable.genruntimeconfig.cache
