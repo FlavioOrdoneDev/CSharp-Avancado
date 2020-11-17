@@ -6,12 +6,10 @@ namespace AppAccount
     {
         static void Main(string[] args)
         {
-            Account acc = new Account(1001, "Alex", 0.0);
-
-            BusinessAccount bacc = new BusinessAccount(1002, "Maria", 0.0, 500.00);
+            BusinessAccount bacc1 = new BusinessAccount(1002, "Maria", 0.0, 500.00);
 
             // Upcasting
-            Account acc1 = bacc;
+            Account acc1 = bacc1;
             Account acc2 = new BusinessAccount(1003, "Bob", 0.0, 200.00);
             Account acc3 = new SavingsAccount(1004, "Anna", 10.0, 10.01);
 
@@ -35,6 +33,20 @@ namespace AppAccount
                 Console.WriteLine("Update!");
                 Console.WriteLine(acc5.Balance);
             }
+
+
+            // Exemplo Override (Sobreposição - Sobrescrita)
+
+            Console.WriteLine("--------------------------------------");
+
+            SavingsAccount saac = new SavingsAccount(1, "Flávio", 100, 0.01);
+            BusinessAccount bacc = new BusinessAccount(2, "Flávio Business", 100, 500);
+
+            saac.Withdraw(50);
+            bacc.Withdraw(50);
+
+            Console.WriteLine("Savings: " + saac.Balance);            
+            Console.WriteLine("Business: " + bacc.Balance);
 
             Console.ReadKey();
         }

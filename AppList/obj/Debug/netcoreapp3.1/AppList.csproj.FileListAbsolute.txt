@@ -10,3 +10,4 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList\obj\Debug\netcoreapp3.1\AppL
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList\obj\Debug\netcoreapp3.1\AppList.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList\obj\Debug\netcoreapp3.1\AppList.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList\obj\Debug\netcoreapp3.1\AppList.genruntimeconfig.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList\obj\Debug\netcoreapp3.1\AppList.csprojAssemblyReference.cache

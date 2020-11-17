@@ -91,3 +91,4 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaSequencialTest\obj\Debug\ne
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaSequencialTest\obj\Debug\netcoreapp3.1\EstruturaSequencialTest.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaSequencialTest\obj\Debug\netcoreapp3.1\EstruturaSequencialTest.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaSequencialTest\obj\Debug\netcoreapp3.1\EstruturaSequencialTest.genruntimeconfig.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaSequencialTest\obj\Debug\netcoreapp3.1\EstruturaSequencialTest.csprojAssemblyReference.cache

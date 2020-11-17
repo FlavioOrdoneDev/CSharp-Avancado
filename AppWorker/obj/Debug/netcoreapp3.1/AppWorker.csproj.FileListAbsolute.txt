@@ -4,7 +4,6 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppWorker\bin\Debug\netcoreapp3.1\Ap
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppWorker\bin\Debug\netcoreapp3.1\AppWorker.runtimeconfig.dev.json
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppWorker\bin\Debug\netcoreapp3.1\AppWorker.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppWorker\bin\Debug\netcoreapp3.1\AppWorker.pdb
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppWorker\obj\Debug\netcoreapp3.1\AppWorker.csprojAssemblyReference.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppWorker\obj\Debug\netcoreapp3.1\AppWorker.AssemblyInfoInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppWorker\obj\Debug\netcoreapp3.1\AppWorker.AssemblyInfo.cs
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppWorker\obj\Debug\netcoreapp3.1\AppWorker.csproj.CoreCompileInputs.cache
