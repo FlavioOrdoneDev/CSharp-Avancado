@@ -1,0 +1,12 @@
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\bin\Debug\netcoreapp3.1\AppMatrizes.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\bin\Debug\netcoreapp3.1\AppMatrizes.deps.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\bin\Debug\netcoreapp3.1\AppMatrizes.runtimeconfig.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\bin\Debug\netcoreapp3.1\AppMatrizes.runtimeconfig.dev.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\bin\Debug\netcoreapp3.1\AppMatrizes.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\bin\Debug\netcoreapp3.1\AppMatrizes.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\obj\Debug\netcoreapp3.1\AppMatrizes.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\obj\Debug\netcoreapp3.1\AppMatrizes.AssemblyInfo.cs
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\obj\Debug\netcoreapp3.1\AppMatrizes.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\obj\Debug\netcoreapp3.1\AppMatrizes.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\obj\Debug\netcoreapp3.1\AppMatrizes.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\obj\Debug\netcoreapp3.1\AppMatrizes.genruntimeconfig.cache

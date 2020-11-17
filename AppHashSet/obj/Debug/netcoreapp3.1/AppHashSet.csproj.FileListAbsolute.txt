@@ -1,0 +1,12 @@
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppHashSet\bin\Debug\netcoreapp3.1\AppHashSet.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppHashSet\bin\Debug\netcoreapp3.1\AppHashSet.deps.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppHashSet\bin\Debug\netcoreapp3.1\AppHashSet.runtimeconfig.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppHashSet\bin\Debug\netcoreapp3.1\AppHashSet.runtimeconfig.dev.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppHashSet\bin\Debug\netcoreapp3.1\AppHashSet.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppHashSet\bin\Debug\netcoreapp3.1\AppHashSet.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppHashSet\obj\Debug\netcoreapp3.1\AppHashSet.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppHashSet\obj\Debug\netcoreapp3.1\AppHashSet.AssemblyInfo.cs
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppHashSet\obj\Debug\netcoreapp3.1\AppHashSet.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppHashSet\obj\Debug\netcoreapp3.1\AppHashSet.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppHashSet\obj\Debug\netcoreapp3.1\AppHashSet.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppHashSet\obj\Debug\netcoreapp3.1\AppHashSet.genruntimeconfig.cache

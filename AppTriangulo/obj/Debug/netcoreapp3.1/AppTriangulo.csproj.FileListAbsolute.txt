@@ -10,3 +10,4 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\obj\Debug\netcoreapp3.1
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\obj\Debug\netcoreapp3.1\AppTriangulo.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\obj\Debug\netcoreapp3.1\AppTriangulo.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\obj\Debug\netcoreapp3.1\AppTriangulo.genruntimeconfig.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppTriangulo\obj\Debug\netcoreapp3.1\AppTriangulo.csprojAssemblyReference.cache
