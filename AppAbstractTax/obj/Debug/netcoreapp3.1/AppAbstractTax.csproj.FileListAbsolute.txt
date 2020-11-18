@@ -1,0 +1,12 @@
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAbstractTax\bin\Debug\netcoreapp3.1\AppAbstractTax.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAbstractTax\bin\Debug\netcoreapp3.1\AppAbstractTax.deps.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAbstractTax\bin\Debug\netcoreapp3.1\AppAbstractTax.runtimeconfig.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAbstractTax\bin\Debug\netcoreapp3.1\AppAbstractTax.runtimeconfig.dev.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAbstractTax\bin\Debug\netcoreapp3.1\AppAbstractTax.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAbstractTax\bin\Debug\netcoreapp3.1\AppAbstractTax.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAbstractTax\obj\Debug\netcoreapp3.1\AppAbstractTax.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAbstractTax\obj\Debug\netcoreapp3.1\AppAbstractTax.AssemblyInfo.cs
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAbstractTax\obj\Debug\netcoreapp3.1\AppAbstractTax.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAbstractTax\obj\Debug\netcoreapp3.1\AppAbstractTax.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAbstractTax\obj\Debug\netcoreapp3.1\AppAbstractTax.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppAbstractTax\obj\Debug\netcoreapp3.1\AppAbstractTax.genruntimeconfig.cache

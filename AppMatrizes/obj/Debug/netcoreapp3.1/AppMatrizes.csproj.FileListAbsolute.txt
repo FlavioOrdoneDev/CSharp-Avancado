@@ -10,4 +10,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\obj\Debug\netcoreapp3.1\
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\obj\Debug\netcoreapp3.1\AppMatrizes.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\obj\Debug\netcoreapp3.1\AppMatrizes.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\obj\Debug\netcoreapp3.1\AppMatrizes.genruntimeconfig.cache
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppMatrizes\obj\Debug\netcoreapp3.1\AppMatrizes.csprojAssemblyReference.cache

@@ -91,4 +91,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaCondicionalTest\obj\Debug\n
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaCondicionalTest\obj\Debug\netcoreapp3.1\EstruturaCondicionalTest.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaCondicionalTest\obj\Debug\netcoreapp3.1\EstruturaCondicionalTest.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaCondicionalTest\obj\Debug\netcoreapp3.1\EstruturaCondicionalTest.genruntimeconfig.cache
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\EstruturaCondicionalTest\obj\Debug\netcoreapp3.1\EstruturaCondicionalTest.csprojAssemblyReference.cache

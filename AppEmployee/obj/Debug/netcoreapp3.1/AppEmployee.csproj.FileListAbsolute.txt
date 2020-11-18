@@ -1,0 +1,12 @@
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEmployee\bin\Debug\netcoreapp3.1\AppEmployee.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEmployee\bin\Debug\netcoreapp3.1\AppEmployee.deps.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEmployee\bin\Debug\netcoreapp3.1\AppEmployee.runtimeconfig.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEmployee\bin\Debug\netcoreapp3.1\AppEmployee.runtimeconfig.dev.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEmployee\bin\Debug\netcoreapp3.1\AppEmployee.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEmployee\bin\Debug\netcoreapp3.1\AppEmployee.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEmployee\obj\Debug\netcoreapp3.1\AppEmployee.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEmployee\obj\Debug\netcoreapp3.1\AppEmployee.AssemblyInfo.cs
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEmployee\obj\Debug\netcoreapp3.1\AppEmployee.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEmployee\obj\Debug\netcoreapp3.1\AppEmployee.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEmployee\obj\Debug\netcoreapp3.1\AppEmployee.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppEmployee\obj\Debug\netcoreapp3.1\AppEmployee.genruntimeconfig.cache

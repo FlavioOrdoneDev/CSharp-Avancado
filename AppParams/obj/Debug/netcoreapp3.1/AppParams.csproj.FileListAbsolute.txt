@@ -10,4 +10,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppParams\obj\Debug\netcoreapp3.1\Ap
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppParams\obj\Debug\netcoreapp3.1\AppParams.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppParams\obj\Debug\netcoreapp3.1\AppParams.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppParams\obj\Debug\netcoreapp3.1\AppParams.genruntimeconfig.cache
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppParams\obj\Debug\netcoreapp3.1\AppParams.csprojAssemblyReference.cache
