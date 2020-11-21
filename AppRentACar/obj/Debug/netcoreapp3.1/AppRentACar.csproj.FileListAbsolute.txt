@@ -1,0 +1,12 @@
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\bin\Debug\netcoreapp3.1\AppRentACar.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\bin\Debug\netcoreapp3.1\AppRentACar.deps.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\bin\Debug\netcoreapp3.1\AppRentACar.runtimeconfig.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\bin\Debug\netcoreapp3.1\AppRentACar.runtimeconfig.dev.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\bin\Debug\netcoreapp3.1\AppRentACar.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\bin\Debug\netcoreapp3.1\AppRentACar.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\obj\Debug\netcoreapp3.1\AppRentACar.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\obj\Debug\netcoreapp3.1\AppRentACar.AssemblyInfo.cs
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\obj\Debug\netcoreapp3.1\AppRentACar.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\obj\Debug\netcoreapp3.1\AppRentACar.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\obj\Debug\netcoreapp3.1\AppRentACar.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\obj\Debug\netcoreapp3.1\AppRentACar.genruntimeconfig.cache
