@@ -1,7 +1,9 @@
 ﻿using AppRentACar.Entities;
 using AppRentACar.Interfaces;
+using AppRentACar.PaymentServices;
 using AppRentACar.Services;
 using System;
+using System.Linq;
 
 namespace AppRentACar
 {
@@ -40,6 +42,22 @@ namespace AppRentACar
 
             Console.WriteLine("Invoice 2 Europa:");
             Console.WriteLine(carRental2.Invoice);
+
+            Console.WriteLine();
+            Console.WriteLine(" ----------  Contrato  ----------");
+            Console.WriteLine();
+
+            Contract contract1 = new Contract(8028, carRental1.Start, 4, 800.00);
+
+            ContractService contractService = new ContractService(new PayPalService());
+            contractService.CalculatePayment(contract1);
+
+
+            Console.WriteLine(contract1);
+            foreach (var item in contract1.ValueInstallments)
+            {
+                Console.WriteLine(item);
+            }
 
             Console.ReadKey();
         }
