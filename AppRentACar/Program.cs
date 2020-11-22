@@ -52,11 +52,10 @@ namespace AppRentACar
             ContractService contractService = new ContractService(new PayPalService());
             contractService.CalculatePayment(contract1);
 
-
             Console.WriteLine(contract1);
             foreach (var item in contract1.ValueInstallments)
             {
-                Console.WriteLine(item);
+                Console.WriteLine("Date: " + item.Date + ", Parcela: " + item.Installment);
             }
 
             Console.ReadKey();

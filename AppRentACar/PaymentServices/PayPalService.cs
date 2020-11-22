@@ -10,17 +10,15 @@ namespace AppRentACar.PaymentServices
     {
         public void Calculate(Contract contract)
         {
-            int installments = contract.Installments;
-            int count = 0;
+            int count = 1;
             
-            while (count < contract.Installments)
+            while (count <= contract.Installments)
             {
                 double parcela = contract.Total / contract.Installments;
-                parcela += parcela * 0.01 * installments;
-                contract.ValueInstallments.Add(parcela + (parcela * 0.02));
+                parcela += parcela * 0.01 * count;
+                contract.ValueInstallments.Add(new Installments(parcela + (parcela * 0.02), contract.Date.AddMonths(count)));
                 count++;
-                installments--;
             }
-        }
+        }        
     }
 }

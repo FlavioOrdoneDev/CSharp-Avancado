@@ -10,4 +10,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\obj\Debug\netcoreapp3.1\
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\obj\Debug\netcoreapp3.1\AppRentACar.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\obj\Debug\netcoreapp3.1\AppRentACar.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\obj\Debug\netcoreapp3.1\AppRentACar.genruntimeconfig.cache
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppRentACar\obj\Debug\netcoreapp3.1\AppRentACar.csprojAssemblyReference.cache

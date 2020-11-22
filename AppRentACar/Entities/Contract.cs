@@ -11,7 +11,7 @@ namespace AppRentACar.Entities
         public int Installments { get; set; }
         public double Total { get; set; }
 
-        public List<double> ValueInstallments = new List<double>();
+        public List<Installments> ValueInstallments = new List<Installments>();
 
         public Contract(int number, DateTime date, int installments, double total)
         {
