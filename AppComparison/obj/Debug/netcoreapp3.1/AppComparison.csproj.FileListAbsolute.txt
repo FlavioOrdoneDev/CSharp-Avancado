@@ -10,3 +10,4 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppComparison\obj\Debug\netcoreapp3.
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppComparison\obj\Debug\netcoreapp3.1\AppComparison.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppComparison\obj\Debug\netcoreapp3.1\AppComparison.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppComparison\obj\Debug\netcoreapp3.1\AppComparison.genruntimeconfig.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppComparison\obj\Debug\netcoreapp3.1\AppComparison.csprojAssemblyReference.cache
