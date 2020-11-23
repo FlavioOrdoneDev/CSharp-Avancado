@@ -16,3 +16,4 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Excuse\obj\Debug\Files-Excuse.
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Excuse\obj\Debug\Files-Excuse.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Excuse\obj\Debug\Files-Excuse.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Excuse\obj\Debug\Files-Excuse.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Files-Excuse\obj\Debug\Files-Excuse.csprojAssemblyReference.cache

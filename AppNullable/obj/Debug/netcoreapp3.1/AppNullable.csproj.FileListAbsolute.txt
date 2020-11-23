@@ -10,4 +10,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\obj\Debug\netcoreapp3.1\
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\obj\Debug\netcoreapp3.1\AppNullable.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\obj\Debug\netcoreapp3.1\AppNullable.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\obj\Debug\netcoreapp3.1\AppNullable.genruntimeconfig.cache
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppNullable\obj\Debug\netcoreapp3.1\AppNullable.csprojAssemblyReference.cache

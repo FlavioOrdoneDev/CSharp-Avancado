@@ -10,3 +10,4 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Farm-Calculator\bin\Debug\Farm-Calcu
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Farm-Calculator\obj\Debug\Farm-Calculator.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Farm-Calculator\obj\Debug\Farm-Calculator.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Farm-Calculator\obj\Debug\Farm-Calculator.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Farm-Calculator\obj\Debug\Farm-Calculator.csprojAssemblyReference.cache

@@ -11,4 +11,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\bin\Debug\Linq-And-
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\obj\Debug\Linq-And-Objects.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\obj\Debug\Linq-And-Objects.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\obj\Debug\Linq-And-Objects.pdb
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-And-Objects\obj\Debug\Linq-And-Objects.csprojAssemblyReference.cache

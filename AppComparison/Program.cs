@@ -14,7 +14,7 @@ namespace AppComparison
             products.Add(new Product("Tablet", 450.00));
 
             products.Sort((p1, p2) => p1.Name.ToUpper().CompareTo(p2.Name.ToUpper())); // Comparison<T> comparison
-            //products.Sort((p1, p2) => p1.Price.CompareTo(p2.Price));
+            //products.Sort((p1, p2) => p1.Price.CompareTo(p2.Price));           
 
             foreach (var item in products)
             {

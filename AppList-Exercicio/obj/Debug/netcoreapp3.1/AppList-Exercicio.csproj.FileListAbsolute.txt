@@ -10,4 +10,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\obj\Debug\netcorea
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\obj\Debug\netcoreapp3.1\AppList-Exercicio.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\obj\Debug\netcoreapp3.1\AppList-Exercicio.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\obj\Debug\netcoreapp3.1\AppList-Exercicio.genruntimeconfig.cache
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppList-Exercicio\obj\Debug\netcoreapp3.1\AppList-Exercicio.csprojAssemblyReference.cache

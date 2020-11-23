@@ -17,3 +17,4 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Events\obj\Debug\Events.csproj.Gener
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Events\obj\Debug\Events.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Events\obj\Debug\Events.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Events\obj\Debug\Events.csprojAssemblyReference.cache

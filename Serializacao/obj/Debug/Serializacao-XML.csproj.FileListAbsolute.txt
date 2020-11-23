@@ -10,3 +10,4 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Serializacao\bin\Debug\Serializacao.
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Serializacao\obj\Debug\Serializacao-XML.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Serializacao\obj\Debug\Serializacao.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Serializacao\obj\Debug\Serializacao.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Serializacao\obj\Debug\Serializacao-XML.csprojAssemblyReference.cache

@@ -10,4 +10,3 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\obj\Debug\netcoreapp3.1\Ap
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\obj\Debug\netcoreapp3.1\AppPedido.dll
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\obj\Debug\netcoreapp3.1\AppPedido.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\obj\Debug\netcoreapp3.1\AppPedido.genruntimeconfig.cache
-C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppPedido\obj\Debug\netcoreapp3.1\AppPedido.csprojAssemblyReference.cache

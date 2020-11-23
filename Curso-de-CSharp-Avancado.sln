@@ -174,6 +174,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8-Linq-Lambda-Delegates", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppComparison", "AppComparison\AppComparison.csproj", "{9AF06E9B-BF86-4B81-9116-087A35926033}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDelegates", "AppDelegates\AppDelegates.csproj", "{E660073F-F290-404D-8165-BBD5A59C504E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -416,6 +418,10 @@ Global
 		{9AF06E9B-BF86-4B81-9116-087A35926033}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AF06E9B-BF86-4B81-9116-087A35926033}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AF06E9B-BF86-4B81-9116-087A35926033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E660073F-F290-404D-8165-BBD5A59C504E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E660073F-F290-404D-8165-BBD5A59C504E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E660073F-F290-404D-8165-BBD5A59C504E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E660073F-F290-404D-8165-BBD5A59C504E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -501,6 +507,7 @@ Global
 		{7BF52C29-8181-4A44-9F49-10C15E922D88} = {C0702DC3-0265-4ABF-AF24-E790C4498989}
 		{CC737793-2F21-4F91-8614-0A184AF597DC} = {C69605C0-6009-4CF2-AB61-6785AFAFC4DC}
 		{9AF06E9B-BF86-4B81-9116-087A35926033} = {CC737793-2F21-4F91-8614-0A184AF597DC}
+		{E660073F-F290-404D-8165-BBD5A59C504E} = {CC737793-2F21-4F91-8614-0A184AF597DC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {25ADB0E8-BE92-4ACC-BE75-04FAFD2D0615}

@@ -10,3 +10,4 @@ C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-Join\bin\Debug\Linq-Join.pdb
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-Join\obj\Debug\Linq-Join.csproj.CoreCompileInputs.cache
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-Join\obj\Debug\Linq-Join.exe
 C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-Join\obj\Debug\Linq-Join.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\Linq-Join\obj\Debug\Linq-Join.csprojAssemblyReference.cache
