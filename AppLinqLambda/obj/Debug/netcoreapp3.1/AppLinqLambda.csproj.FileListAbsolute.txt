@@ -1,0 +1,12 @@
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppLinqLambda\bin\Debug\netcoreapp3.1\AppLinqLambda.exe
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppLinqLambda\bin\Debug\netcoreapp3.1\AppLinqLambda.deps.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppLinqLambda\bin\Debug\netcoreapp3.1\AppLinqLambda.runtimeconfig.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppLinqLambda\bin\Debug\netcoreapp3.1\AppLinqLambda.runtimeconfig.dev.json
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppLinqLambda\bin\Debug\netcoreapp3.1\AppLinqLambda.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppLinqLambda\bin\Debug\netcoreapp3.1\AppLinqLambda.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppLinqLambda\obj\Debug\netcoreapp3.1\AppLinqLambda.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppLinqLambda\obj\Debug\netcoreapp3.1\AppLinqLambda.AssemblyInfo.cs
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppLinqLambda\obj\Debug\netcoreapp3.1\AppLinqLambda.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppLinqLambda\obj\Debug\netcoreapp3.1\AppLinqLambda.dll
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppLinqLambda\obj\Debug\netcoreapp3.1\AppLinqLambda.pdb
+C:\Projetos\Cursos\Curso-de-CSharp-Avancado\AppLinqLambda\obj\Debug\netcoreapp3.1\AppLinqLambda.genruntimeconfig.cache
